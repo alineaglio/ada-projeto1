@@ -42,6 +42,11 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 └── projeto_final/
 ```
 
+## testando as funcionalidades 
+## teste numero 2
+## teste
+
+
 ## Autor
 
 [github.com/alineaglio](https://github.com/alineaglio)
